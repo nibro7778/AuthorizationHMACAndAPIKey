@@ -1,0 +1,2 @@
+c:\data\visual studio 2013\Projects\SecureAPI\SecureAPI.Client\bin\Debug\SecureAPI.Client.exe.config
+C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\SecureAPI.Client.exe.config
