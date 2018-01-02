@@ -6,6 +6,7 @@ C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\Newtonsoft.Json.dl
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\System.Net.Http.Formatting.dll
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\Newtonsoft.Json.xml
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\System.Net.Http.Formatting.xml
-C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\obj\Debug\SecureAPI.Client.csprojResolveAssemblyReference.cache
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\obj\Debug\SecureAPI.Client.exe
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\obj\Debug\SecureAPI.Client.pdb
+C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\SecureAPI.Client.exe.CodeAnalysisLog.xml
+C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\SecureAPI.Client.exe.lastcodeanalysissucceeded

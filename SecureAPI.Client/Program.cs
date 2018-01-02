@@ -1,4 +1,7 @@
 ﻿using SecureAPI.Client.RequestModel;
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
 namespace SecureAPI.Client
 {
     class Program
