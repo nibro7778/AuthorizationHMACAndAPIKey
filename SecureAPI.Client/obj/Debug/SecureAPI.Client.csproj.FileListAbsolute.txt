@@ -8,5 +8,4 @@ C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\Newtonsoft.Json.xm
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\System.Net.Http.Formatting.xml
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\obj\Debug\SecureAPI.Client.exe
 C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\obj\Debug\SecureAPI.Client.pdb
-C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\SecureAPI.Client.exe.CodeAnalysisLog.xml
-C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\bin\Debug\SecureAPI.Client.exe.lastcodeanalysissucceeded
+C:\Data\AuthorizationHMACAndAPIKey\SecureAPI.Client\obj\Debug\SecureAPI.Client.csprojResolveAssemblyReference.cache

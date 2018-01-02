@@ -16,7 +16,7 @@ namespace SecureAPI.Client
 
             Console.WriteLine("Calling the back-end API");
 
-            string apiBaseAddress = "http://localhost:43326/";
+            string apiBaseAddress = "http://localhost:59373/";
 
             CustomDelegatingHandler customDelegatingHandler = new CustomDelegatingHandler();
 
@@ -24,7 +24,9 @@ namespace SecureAPI.Client
 
             var customer = new Customer { CustomerId = 1, CustomerName="Niraj", City = "Sydney" };
 
-            HttpResponseMessage response = await client.PostAsJsonAsync(apiBaseAddress + "api/v1/Customers", customer);
+            HttpResponseMessage response1 = await client.GetAsync(apiBaseAddress + "api/v1/Customers/GetCustomer");
+
+            HttpResponseMessage response = await client.PostAsJsonAsync(apiBaseAddress + "api/v1/Customers/PostCustomer", customer);
 
             if (response.IsSuccessStatusCode)
             {
