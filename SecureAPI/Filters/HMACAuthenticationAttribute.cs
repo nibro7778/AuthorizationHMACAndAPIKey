@@ -84,7 +84,8 @@ namespace SecureAPI.Filters
 
         public Task ChallengeAsync(HttpAuthenticationChallengeContext context, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            context.Result = new ResultWithChallenge(context.Result);
+            return Task.FromResult(0);
         }
 
         private async Task<bool> IsValidRequest(HttpRequestMessage req, string APPId, string incomingBase64Signature, string nonce, string requestTimeStamp)
